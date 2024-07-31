@@ -1,0 +1,6 @@
+2024-07-13 15:25:07,242 ERROR Data loaded from MySQL successfully.
+2024-07-13 15:25:10,168 INFO Sent Teams notification: ETL Process Error
+2024-07-13 15:25:20,984 INFO No null values found in the specified columns.
+2024-07-13 15:25:22,025 ERROR No inconsistent data found between columns: name and salary
+2024-07-13 15:25:23,855 INFO Sent Teams notification: ETL Process Error
+2024-07-13 15:25:24,380 INFO Closing down clientserver connection
